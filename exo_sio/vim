@@ -1,0 +1,9 @@
+#Classe les elements d'une liste par ordre croissant.
+#Mehdi NAOUI
+#BTS SIO SLAM
+#2024
+#____________________________________________________
+
+def permuter(a ,b):
+
+

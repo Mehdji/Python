@@ -1,0 +1,10 @@
+i = 0
+j = 0
+tableau = [int(1), int(2) , int(3), ... , int(n)]
+t = longueur[tableau]
+
+pour i dans tableau :
+    pour j dans tableau :
+        si tableau[i] > tableau[j]
+            permuter(i,j)
+
